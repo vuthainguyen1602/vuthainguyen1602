@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working as a **Software Engineer at TMA Solutions** (since 2020)  
+- 🔭 Currently working as a **Seinor Software Engineer at TMA Solutions** (since 2020)  
 - 🎓 **M.Sc. in Information Systems** – VNU-HCM University of Information Technology  
 - 🎓 **B.Eng. in Information Technology** – University of Transport and Communications  
 - 📚 Researcher with focus on **Credit Card Fraud Detection, AI in Healthcare, Fuzzy Logic for Anomaly Detection**  
@@ -53,12 +53,6 @@
 - 📧 Email: **your-email@gmail.com**  
 - 💼 LinkedIn: [https://www.linkedin.com/in/thai-nguyen-vu-5844081aa/](#)  
 - 🌐 GitHub: [github.com/thainguyenvu](https://github.com/vuthainguyen1602)  
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thainguyenvu&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thainguyenvu&layout=compact&theme=radical)  
-
 ---
 
 ⭐️ *“Coding is not just my job, it’s my way of learning, creating, and sharing with the world.”*  
